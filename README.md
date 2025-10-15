@@ -1,1 +1,1 @@
-This is the MATLAB file used for simulations conducted in the publication titled "Parameter-Minimal Analysis of Carbon Dioxide Removal through Direct Air Capture" by Noel T. Fortun, Angelyn R. Lao, Eduardo R. Mendoza, and Luis F. Razon.
+This is the MATLAB file used for simulations conducted in the paper titled "Parameter-Minimal Analysis of Carbon Dioxide Removal through Direct Air Capture" by Noel T. Fortun, Angelyn R. Lao, Eduardo R. Mendoza, and Luis F. Razon.
